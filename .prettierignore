@@ -1,6 +1,0 @@
-node_modules
-build
-packages/cli/oclif.manifest.json
-dist
-packages/hydrogen-react/storefront.schema.json
-coverage
